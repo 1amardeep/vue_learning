@@ -15,7 +15,7 @@ import VideoList from  './components/VideoList.vue'
 import videoData from './data.json'
 
 // import axios from 'axios';
-// const API_key = "AIzaSyBjKZrZ6PIFpirNA-HQNPVqrRO9gqSbaRY";
+// const API_key = "";
 
 export default {
     name : 'App',
