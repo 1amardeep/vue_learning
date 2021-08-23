@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" v-on:input="OnInput">
+        <input type="text" v-on:input="OnInput" placeholder="Search the front end technology stack">
     </div>
 </template>
 
