@@ -1,6 +1,6 @@
 <template>
   <li class="media my-3">
-    <img v-bind:src="video.thumbnail" class="mr-3" alt="nothing img avilable" />
+    <img v-bind:src="video.thumbnail" class="mr-3" alt="nothing img avilable" height="90px" width="90px" />
     <div class="media-body">
       <h5 class="mt-0 mb-1">{{video.title}}</h5>
       {{video.discription}}
