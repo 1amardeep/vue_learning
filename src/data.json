@@ -3,27 +3,32 @@
              {
                  "title": "Angular",
                  "thumbnail": "assets/angular.png",
-                 "discription":"Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications."
+                 "discription":"Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications.",
+                 "src":"k5E2AVpwsko"
              },
              {
                 "title": "React",
                 "thumbnail": "assets/react.png",
-                "discription":"React is a JavaScript library created for building fast and interactive user interfaces for web and mobile applications. It is an open-source, component-based, front-end library responsible only for the application's view layer."
+                "discription":"React is a JavaScript library created for building fast and interactive user interfaces for web and mobile applications. It is an open-source, component-based, front-end library responsible only for the application's view layer.",
+                "src":"w7ejDZ8SWv8"
             },
             {
                 "title": "Node",
                 "thumbnail": "assets/node.png",
-                "discription":"Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. ... js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices."
+                "discription":"Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. ... js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+                "src":"fBNz5xF-Kx4"
             },
             {
                 "title": "Vue",
                 "thumbnail": "assets/vue.png",
-                "discription":"an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members."
+                "discription":"an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members.",
+                "src":"Wy9q22isx3U"
             },
             {
                 "title": "Github",
                 "thumbnail": "assets/github.png",
-                "discription":"Git is a type of version control system (VCS) that makes it easier to track changes to files. ... You could use it while writing an essay, or to track changes to artwork and design files. Git isn't the only version control system out there, but it's by far the most popular."
+                "discription":"Git is a type of version control system (VCS) that makes it easier to track changes to files. ... You could use it while writing an essay, or to track changes to artwork and design files. Git isn't the only version control system out there, but it's by far the most popular.",
+                "src":"SWYqp7iY_Tc"
             }
     ]
 }
