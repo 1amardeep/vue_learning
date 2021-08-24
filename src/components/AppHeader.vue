@@ -41,5 +41,6 @@ export default {
   position: sticky;
   width: 100%;
   top: 0px;
+  z-index:1;
 }
 </style>

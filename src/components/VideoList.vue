@@ -1,6 +1,6 @@
 <template>
     <ul class="list-unstyled">
-        <VideoListItems v-for="(video,index) in myVideos" v-bind:video="video" :key="index"></VideoListItems>
+        <VideoListItems @dataTunnel="passtheData2" v-for="(video,index) in myVideos" v-bind:video="video" :key="index"></VideoListItems>
     </ul>
 </template>
 
@@ -13,6 +13,11 @@ export default {
     props : ['myVideos'],
     components : {
         VideoListItems
+    },
+    methods:{
+      passtheData2:function(data){
+        this.$emit('dataTunnel2',data);
+      }
     }
 }
 </script>

@@ -3,27 +3,27 @@
              {
                  "title": "Angular",
                  "thumbnail": "assets/angular.png",
-                 "discription":"lDiscription will appear soon !!!!!"
+                 "discription":"Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications."
              },
              {
                 "title": "React",
                 "thumbnail": "assets/react.png",
-                "discription":"lDiscription will appear soon !!!!!"
+                "discription":"React is a JavaScript library created for building fast and interactive user interfaces for web and mobile applications. It is an open-source, component-based, front-end library responsible only for the application's view layer."
             },
             {
                 "title": "Node",
                 "thumbnail": "assets/node.png",
-                "discription":"lDiscription will appear soon !!!!!"
+                "discription":"Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. ... js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices."
             },
             {
                 "title": "Vue",
                 "thumbnail": "assets/vue.png",
-                "discription":"lDiscription will appear soon !!!!!"
+                "discription":"an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members."
             },
             {
                 "title": "Github",
                 "thumbnail": "assets/github.png",
-                "discription":"lDiscription will appear soon !!!!!"
+                "discription":"Git is a type of version control system (VCS) that makes it easier to track changes to files. ... You could use it while writing an essay, or to track changes to artwork and design files. Git isn't the only version control system out there, but it's by far the most popular."
             }
     ]
 }
